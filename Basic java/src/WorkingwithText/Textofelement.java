@@ -27,7 +27,7 @@ public void Text(){
 	for(int i=0;i<Text.size();i++)
 	{
 		System.out.println(Text.get(i).getText());
-		
+		System.out.println("hi");
 	}
 }
 }
